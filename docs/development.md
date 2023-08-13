@@ -23,7 +23,7 @@ These are the steps:
 1. Have your editor restart its clojure-lsp server
 1. Issue the clojure-lsp `serverInfo` command
 1. Find the `port` entry in the output
-1. Connect your editors nREPL client to this port
+1. Connect your editor's nREPL client to this port
 1. Hack away!
 
 **Seeing is believing.** An easy way to convince yourself that you can actually change clojure-lsp mid-flight is to:
